@@ -1,0 +1,4 @@
+com\isaij\UserStories\model\UserStory.class
+com\isaij\UserStories\UserStoriesApplication.class
+com\isaij\UserStories\controller\UserStoryController.class
+com\isaij\UserStories\repository\UserStoryRepository.class
